@@ -1,0 +1,12 @@
+Trace ID: 1
+Target Host: 127.0.0.1
+
+DNS Information:
+-----------------
+IP Address: 127.0.0.1
+Hostname: localhost
+
+Trace Information:
+------------------
+traceroute to 127.0.0.1 (127.0.0.1), 15 hops max, 60 byte packets
+ 1  127.0.0.1  0.426 ms  0.367 ms  0.346 ms
