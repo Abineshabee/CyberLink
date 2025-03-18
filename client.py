@@ -389,7 +389,7 @@ if __name__ == "__main__":
         password = pwinput.pwinput("CyberLink Password > ", mask="*")   
         print( 48 *"_")
         
-        #register(username, password) #function for register
+        register(username, password) #function for register
         
         print( banner2 )
         
