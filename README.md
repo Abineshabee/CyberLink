@@ -98,6 +98,7 @@ CyberLink is a secure communication platform that allows users to exchange messa
 - The application uses a local SQLite database
 - File type restrictions are enforced for security
 
-## License
-
-This project is intended for educational purposes only.
+## LICENSE
+---
+This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
+---
