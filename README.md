@@ -33,6 +33,9 @@ CyberLink is a secure communication platform that allows users to exchange messa
    ```
    The server will run on `0.0.0.0:5000` by default (accessible on all network interfaces).
 
+   ![My Screenshot](./Example/Server.png)
+
+
 ### Running the Client
 
 1. Make sure the server is running
@@ -40,6 +43,8 @@ CyberLink is a secure communication platform that allows users to exchange messa
    ```
    python client.py
    ```
+    ![My Screenshot](./Example/Client1.png)
+    ![My Screenshot](./Example/Client2.png)
 
 ## Usage
 
