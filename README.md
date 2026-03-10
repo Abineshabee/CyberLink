@@ -2,6 +2,10 @@
 
 CyberLink is a secure communication platform that allows users to exchange messages and files with end-to-end encryption. The application consists of a Flask-based server and a Python client that work together to provide secure communications.
 
+<p align="center">
+  <img src="Cyberlink-logo.svg" width="420">
+</p>
+
 ## Features
 
 - User registration and login with encrypted credentials
